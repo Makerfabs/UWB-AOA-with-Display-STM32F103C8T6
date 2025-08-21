@@ -26,7 +26,7 @@ UWB AOA with Display STM32F103C8T6
 
 • Expander: 2X12 2.54mm header  
 
-* Open Source: hardware/firmware/software  
+• Open Source: hardware/firmware/software  
 
 # Usage:
 
@@ -35,23 +35,26 @@ UWB AOA with Display STM32F103C8T6
 3. Open the AOA System Application.  
 4. Select Tag ID and joined.  
 5. Result Show  
-
+![](Images/AOA_System01.jpg)
 
 
 # Firmware
 
-|Type|Default Firmware|  
-|-|-|-|  
-|Anchor|Project\_Anchor\_v1.0.hex|  
-|Tag|Project\_Tag\_v1.0.hex|  
+| Type | Default Firmware | 
+|---|---|
+| Anchor | Project\_Anchor\_v1.0.hex |
+| Tag | Project\_Tag\_v1.0.hex |
 
 # How to Program?
 
 |ST-LINK V2 |AOA Anchor/Tag Board|  
-|-|-|-|  
+| ---- | ---- | 
 |SWCLK|SWCK|  
 |SWDIO|SWIO|  
 |GND|GND|  
 |3.3V|+3.3V|  
+
+
+
 
 
