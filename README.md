@@ -3,10 +3,16 @@
 UWB AOA with Display STM32F103C8T6
 
 
+# Makerfabs
+
+[Makerfabs Homepage](https://www.makerfabs.com/)
+
+[Makerfabs Wiki](https://wiki.makerfabs.com/)
+
 
 # Feature:
 
-• Controller: STM32F103C8T6, 72 MHz maximum frequency, 1.25 DMIPS / MHz (Dhrystone 2.1),64KB Flash memory, 20KB SRAM  
+• Controller: STM32F103C8T6, max 72MHz frequency, 1.25 DMIPS/MHz(Dhrystone 2.1), 64KB Flash memory, 20KB SRAM  
 
 • DW3000 Module(Anchor):UWB-X3-AOA  
 
@@ -28,13 +34,26 @@ UWB AOA with Display STM32F103C8T6
 
 • Open Source: hardware/firmware/software  
 
+• Ranging error:< 10cm  
+
+• Positioning error： <10cm  
+
+• Frequency: CH5 (6.5 GHz)/CH9 (8 GHz)  
+
+• Speed rate: 850 Kbps/6.8Mbps  
+
+• Communication interface: SPI  
+
+• Power Supply: USB 5.0V or 3.7V lithium battery  
+
+
 # Usage:
 
 1. Insert to USB-NATIVE port of AOA anchor.  
 2. Insert to USB-TTL port of AOA tag(Or Powered by Li-battery).  
 3. Open the AOA System Application.  
 4. Select Tag ID and joined.  
-5. Result Show  
+5. Result Show:  
 ![](Images/AOA_System01.jpg)
 
 
@@ -53,6 +72,7 @@ UWB AOA with Display STM32F103C8T6
 |SWDIO|SWIO|  
 |GND|GND|  
 |3.3V|+3.3V|  
+
 
 
 
