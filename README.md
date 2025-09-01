@@ -34,9 +34,15 @@ UWB AOA with Display STM32F103C8T6
 
 • Open Source: hardware/firmware/software  
 
-• Ranging error:< 10cm  
+• Coverage radius: 30m@6.8M 
 
-• Positioning error： <10cm  
+• angle:+/-60° 
+
+• angle error:±5° 
+
+• Ranging error:< 10cm 
+
+• Positioning error： <10cm 
 
 • Frequency: CH5 (6.5 GHz)/CH9 (8 GHz)  
 
@@ -73,7 +79,21 @@ UWB AOA with Display STM32F103C8T6
 |GND|GND|  
 |3.3V|+3.3V|  
 
+# How to turn on the PA in tag?
+1. Modify the value of PMSC_TXFINESEQ_DISABLE to 0x0d20010 in deca_vals.h header file: 
 
+#define PMSC_TXFINESEQ_DISABLE  0x0d20010 
+
+![](Images/TurnOn_TagPA01.png)  
+
+2. Add a definition in config_options.h header file: 
+
+#define HW_PA 
+
+![](Images/TurnOn_TagPA02.png)  
+
+# Where to purchase? 
+[AOA KIT](https://www.makerfabs.com/mauwb-stm32-aoa-development-kit.html) 
 
 
 
