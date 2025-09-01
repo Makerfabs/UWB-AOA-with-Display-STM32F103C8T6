@@ -92,8 +92,15 @@ UWB AOA with Display STM32F103C8T6
 
 ![](Images/TurnOn_TagPA02.png)  
 
+# Why there is No com port in AOA system software?  
+
+1. Install the STM32_VCP_V1.4.0_Setup.exe in Driver folder.  
+2. Update the driver from the Device Manager.  
+3. Insert the USB Type C cable to USB Native port of AOA Anchor before you open the AOA system software. 
+
 # Where to purchase? 
 [AOA KIT](https://www.makerfabs.com/mauwb-stm32-aoa-development-kit.html) 
+
 
 
 
