@@ -1,0 +1,5 @@
+../OSAL/OSAL.c:17:6:osal_CreateQueue	0	static
+../OSAL/OSAL.c:34:6:osal_FullQueue	0	static
+../OSAL/OSAL.c:42:6:osal_EmptyQueue	0	static
+../OSAL/OSAL.c:50:6:osal_Enqueue	16	static
+../OSAL/OSAL.c:67:6:osal_Dequeue	16	static

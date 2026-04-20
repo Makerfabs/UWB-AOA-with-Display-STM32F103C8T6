@@ -1,0 +1,5 @@
+../OSAL/OSAL.c:17:6:osal_CreateQueue	1
+../OSAL/OSAL.c:34:6:osal_FullQueue	1
+../OSAL/OSAL.c:42:6:osal_EmptyQueue	1
+../OSAL/OSAL.c:50:6:osal_Enqueue	2
+../OSAL/OSAL.c:67:6:osal_Dequeue	3

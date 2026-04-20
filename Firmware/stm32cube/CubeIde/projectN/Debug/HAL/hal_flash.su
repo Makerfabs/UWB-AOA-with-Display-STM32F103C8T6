@@ -1,0 +1,3 @@
+../HAL/hal_flash.c:10:6:HalFlashInit	0	static
+../HAL/hal_flash.c:21:9:HalWrite_Flash	48	static
+../HAL/hal_flash.c:72:6:HalRead_Flash	0	static

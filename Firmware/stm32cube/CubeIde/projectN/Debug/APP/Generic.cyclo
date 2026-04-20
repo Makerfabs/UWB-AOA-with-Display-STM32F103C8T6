@@ -1,0 +1,10 @@
+../APP/Generic.c:41:6:App_Module_sys_para_debug	1
+../APP/Generic.c:66:6:App_Module_sys_para_Init	1
+../APP/Generic.c:86:6:App_Module_Sys_Write_NVM	2
+../APP/Generic.c:100:6:App_Module_Sys_Read_NVM	1
+../APP/Generic.c:109:6:App_Module_sys_para_read	2
+../APP/Generic.c:142:6:App_Module_Init	1
+../APP/Generic.c:172:6:App_Module_Sys_Deal_UART_USB_CMD_Event	3
+../APP/Generic.c:162:6:App_Module_Sys_Work_Mode_Event	1
+../APP/Generic.c:190:6:App_Modelu_Sys_Deal_IO_LED_Event	5
+../APP/Generic.c:211:6:App_Module_Sys_IO_Led_Mode_Set	4

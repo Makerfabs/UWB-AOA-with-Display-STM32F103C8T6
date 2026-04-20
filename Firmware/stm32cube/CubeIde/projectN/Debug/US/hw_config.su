@@ -1,0 +1,7 @@
+../US/hw_config.c:46:6:Set_System	40	static
+../US/hw_config.c:71:6:USB_Config	0	static
+../US/hw_config.c:77:6:USB_Cable_Config	0	static
+../US/hw_config.c:86:10:USB_RxRead	0	static
+../US/hw_config.c:91:10:USB_RxWrite	0	static
+../US/hw_config.c:96:10:USB_TxRead	0	static
+../US/hw_config.c:101:10:USB_TxWrite	0	static

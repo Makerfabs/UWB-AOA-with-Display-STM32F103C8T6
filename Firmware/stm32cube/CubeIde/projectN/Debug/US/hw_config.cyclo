@@ -1,0 +1,7 @@
+../US/hw_config.c:46:6:Set_System	1
+../US/hw_config.c:71:6:USB_Config	1
+../US/hw_config.c:77:6:USB_Cable_Config	2
+../US/hw_config.c:86:10:USB_RxRead	1
+../US/hw_config.c:91:10:USB_RxWrite	1
+../US/hw_config.c:96:10:USB_TxRead	1
+../US/hw_config.c:101:10:USB_TxWrite	1

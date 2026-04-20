@@ -1,0 +1,13 @@
+../DW/Examples/mac_802_15_4.c:24:6:mac_frame_set_pan_ids_and_addresses_802_15_4	2
+../DW/Examples/mac_802_15_4.c:47:6:mac_frame_init_mac_frame_ctrl	1
+../DW/Examples/mac_802_15_4.c:62:6:mac_frame_update_sequence_number	1
+../DW/Examples/mac_802_15_4.c:69:6:mac_frame_set_AUX_security_control	1
+../DW/Examples/mac_802_15_4.c:77:6:mac_frame_set_AUX_key_identifier	1
+../DW/Examples/mac_802_15_4.c:83:6:mac_frame_update_aux_frame_cnt	1
+../DW/Examples/mac_802_15_4.c:95:9:mac_frame_get_AUX_key_identifier	1
+../DW/Examples/mac_802_15_4.c:101:10:mac_frame_get_aux_frame_cnt	1
+../DW/Examples/mac_802_15_4.c:117:6:mac_frame_get_nonce	1
+../DW/Examples/mac_802_15_4.c:132:9:mac_frame_get_aux_mic_size	1
+../DW/Examples/mac_802_15_4.c:243:18:get_security_state	1
+../DW/Examples/mac_802_15_4.c:260:6:get_src_and_dst_frame_addr	2
+../DW/Examples/mac_802_15_4.c:162:15:rx_aes_802_15_4	9

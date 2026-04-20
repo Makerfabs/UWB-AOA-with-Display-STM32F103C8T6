@@ -1,0 +1,2 @@
+../DW/Driver/deca_mutex.c:51:17:decamutexon	8	static
+../DW/Driver/deca_mutex.c:76:6:decamutexoff	0	static
