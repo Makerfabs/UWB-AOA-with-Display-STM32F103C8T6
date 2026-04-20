@@ -1,0 +1,12 @@
+../OLED/OLED_I2C.c:48:6:I2C_WriteByte	32	static
+../OLED/OLED_I2C.c:54:6:WriteCmd	0	static
+../OLED/OLED_I2C.c:59:6:WriteDat	0	static
+../OLED/OLED_I2C.c:64:6:OLED_Init	8	static
+../OLED/OLED_I2C.c:98:6:OLED_SetPos	8	static
+../OLED/OLED_I2C.c:105:6:OLED_Fill	16	static
+../OLED/OLED_I2C.c:120:6:OLED_CLS	0	static
+../OLED/OLED_I2C.c:131:6:OLED_ON	8	static
+../OLED/OLED_I2C.c:144:6:OLED_OFF	8	static
+../OLED/OLED_I2C.c:157:6:OLED_ShowStr	40	static
+../OLED/OLED_I2C.c:208:6:OLED_ShowCN	32	static
+../OLED/OLED_I2C.c:232:6:OLED_DrawBMP	40	static

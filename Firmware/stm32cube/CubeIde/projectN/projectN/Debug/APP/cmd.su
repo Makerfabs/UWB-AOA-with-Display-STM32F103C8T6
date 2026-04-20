@@ -1,0 +1,2 @@
+../APP/cmd.c:38:13:cmd_onERROR.isra	16	static
+../APP/cmd.c:61:6:command_parser	72	static

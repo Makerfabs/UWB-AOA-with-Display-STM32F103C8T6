@@ -1,0 +1,2 @@
+../HAL/DW/dw_twe/config.c:36:16:get_pbssConfig	1
+../HAL/DW/dw_twe/config.c:46:6:load_bssConfig	1

@@ -1,0 +1,3 @@
+../HAL/hal_led.c:39:6:HalLedInit	1
+../HAL/hal_led.c:62:6:HalLedSet	13
+../HAL/hal_led.c:108:5:HalLed_Mode_Set	15

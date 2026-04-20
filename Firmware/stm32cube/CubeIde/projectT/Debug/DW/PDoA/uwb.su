@@ -1,0 +1,16 @@
+../DW/PDoA/uwb.c:18:9:GPIO_ReadInputDataBit	0	static
+../DW/PDoA/uwb.c:38:15:portGetTickCnt	0	static
+../DW/PDoA/uwb.c:46:15:portGetTickCount	0	static
+../DW/PDoA/uwb.c:53:6:sleep_ms	0	static
+../DW/PDoA/uwb.c:67:6:Sleep	0	static
+../DW/PDoA/uwb.c:72:6:deca_usleep	0	static,ignoring_inline_asm
+../DW/PDoA/uwb.c:91:6:reset_DWIC	32	static
+../DW/PDoA/uwb.c:120:6:SPI_ConfigFastRate	16	static
+../DW/PDoA/uwb.c:151:6:port_set_dw_ic_spi_slowrate	16	static
+../DW/PDoA/uwb.c:159:6:port_set_dw_ic_spi_fastrate	16	static
+../DW/PDoA/uwb.c:167:6:wakeup_device_with_io	8	static
+../DW/PDoA/uwb.c:181:6:deca_sleep	0	static
+../DW/PDoA/uwb.c:186:5:readfromspi_serial	24	static
+../DW/PDoA/uwb.c:222:5:writetospi_serial	24	static
+../DW/PDoA/uwb.c:254:10:EXTI_GetITEnStatus	0	static
+../DW/PDoA/uwb.c:276:6:process_deca_irq	8	static

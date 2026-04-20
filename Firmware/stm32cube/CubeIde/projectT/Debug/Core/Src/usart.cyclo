@@ -1,0 +1,8 @@
+../Core/Src/usart.c:60:6:MX_USART1_UART_Init	2
+../Core/Src/usart.c:88:6:HAL_UART_MspInit	4
+../Core/Src/usart.c:156:6:HAL_UART_MspDeInit	2
+../Core/Src/usart.c:190:10:USART1_SendBuffer	3
+../Core/Src/usart.c:223:6:_dbg_printf	1
+../Core/Src/usart.c:246:6:UART_TX_DMA_Complete	2
+../Core/Src/usart.c:263:6:HAL_UART_TxCpltCallback	2
+../Core/Src/usart.c:273:6:USART1_IRQHandler	1

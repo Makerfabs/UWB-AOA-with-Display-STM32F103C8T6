@@ -1,0 +1,13 @@
+../DW/Examples/mac_802_15_4.c:25:6:mac_frame_set_pan_ids_and_addresses_802_15_4	28	static
+../DW/Examples/mac_802_15_4.c:48:6:mac_frame_init_mac_frame_ctrl	0	static
+../DW/Examples/mac_802_15_4.c:63:6:mac_frame_update_sequence_number	0	static
+../DW/Examples/mac_802_15_4.c:70:6:mac_frame_set_AUX_security_control	0	static
+../DW/Examples/mac_802_15_4.c:78:6:mac_frame_set_AUX_key_identifier	0	static
+../DW/Examples/mac_802_15_4.c:84:6:mac_frame_update_aux_frame_cnt	0	static
+../DW/Examples/mac_802_15_4.c:96:9:mac_frame_get_AUX_key_identifier	0	static
+../DW/Examples/mac_802_15_4.c:102:10:mac_frame_get_aux_frame_cnt	0	static
+../DW/Examples/mac_802_15_4.c:118:6:mac_frame_get_nonce	0	static
+../DW/Examples/mac_802_15_4.c:133:9:mac_frame_get_aux_mic_size	0	static
+../DW/Examples/mac_802_15_4.c:163:15:rx_aes_802_15_4	56	static
+../DW/Examples/mac_802_15_4.c:244:18:get_security_state	0	static
+../DW/Examples/mac_802_15_4.c:261:6:get_src_and_dst_frame_addr	12	static

@@ -1,0 +1,7 @@
+../USB_DEVICE/App/usbd_cdc_if.c:175:15:CDC_DeInit_FS	1
+../USB_DEVICE/App/usbd_cdc_if.c:189:15:CDC_Control_FS	1
+../USB_DEVICE/App/usbd_cdc_if.c:270:15:CDC_Receive_FS	1
+../USB_DEVICE/App/usbd_cdc_if.c:161:15:CDC_Init_FS	1
+../USB_DEVICE/App/usbd_cdc_if.c:297:9:CDC_Transmit_FS	2
+../USB_DEVICE/App/usbd_cdc_if.c:312:6:ProcessUsbTx	3
+../USB_DEVICE/App/usbd_cdc_if.c:345:6:HalUsbWrite	1

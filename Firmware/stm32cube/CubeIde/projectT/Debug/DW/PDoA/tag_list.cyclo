@@ -1,0 +1,13 @@
+../DW/PDoA/tag_list.c:55:18:get_knownTagList	1
+../DW/PDoA/tag_list.c:64:10:get_knownTagList_size	1
+../DW/PDoA/tag_list.c:85:6:init_knownTagList	1
+../DW/PDoA/tag_list.c:96:1:get_tag64_from_knownTagList	2
+../DW/PDoA/tag_list.c:116:1:get_tag16_from_knownTagList	3
+../DW/PDoA/tag_list.c:139:10:get_free_slot_from_knownTagList	1
+../DW/PDoA/tag_list.c:164:18:add_tag_to_knownTagList	4
+../DW/PDoA/tag_list.c:207:6:del_tag16_from_knownTagList	3
+../DW/PDoA/tag_list.c:222:6:del_tag64_from_knownTagList	3
+../DW/PDoA/tag_list.c:239:10:getDList_size	1
+../DW/PDoA/tag_list.c:254:12:getDList	1
+../DW/PDoA/tag_list.c:263:5:addTagToDList	3
+../DW/PDoA/tag_list.c:285:6:initDList	1

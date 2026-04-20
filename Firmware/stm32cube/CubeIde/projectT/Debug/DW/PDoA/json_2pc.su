@@ -1,0 +1,3 @@
+../DW/PDoA/json_2pc.c:26:6:signal_to_pc_new_tag_discovered	176	static
+../DW/PDoA/json_2pc.c:48:6:send_to_pc_custom_twr_carfollow	192	static
+../DW/PDoA/json_2pc.c:106:6:send_to_pc_twr	496	static

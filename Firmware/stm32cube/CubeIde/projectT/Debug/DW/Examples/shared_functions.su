@@ -1,0 +1,12 @@
+../DW/Examples/shared_functions.c:34:6:check_for_status_errors	16	static
+../DW/Examples/shared_functions.c:142:10:get_rx_delay_time_txpreamble	0	static
+../DW/Examples/shared_functions.c:187:10:get_rx_delay_time_data_rate	0	static
+../DW/Examples/shared_functions.c:218:6:set_delayed_rx_time	0	static
+../DW/Examples/shared_functions.c:274:6:set_resp_rx_timeout	4	static
+../DW/Examples/shared_functions.c:314:6:resync_sts	8	static
+../DW/Examples/shared_functions.c:343:6:resp_msg_get_ts	0	static
+../DW/Examples/shared_functions.c:363:10:get_tx_timestamp_u64	16	static
+../DW/Examples/shared_functions.c:387:10:get_rx_timestamp_u64	16	static
+../DW/Examples/shared_functions.c:412:6:final_msg_get_ts	0	static
+../DW/Examples/shared_functions.c:433:6:final_msg_set_ts	0	static
+../DW/Examples/shared_functions.c:454:6:resp_msg_set_ts	0	static

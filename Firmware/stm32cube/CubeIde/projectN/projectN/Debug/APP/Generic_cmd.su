@@ -1,0 +1,10 @@
+../APP/Generic_cmd.c:214:9:usart1_recv_msg_handler	8	static
+../APP/Generic_cmd.c:32:5:App_Module_CMD_Queue_Init	8	static
+../APP/Generic_cmd.c:41:5:App_Module_Process_USB_CMD	800	static
+../APP/Generic_cmd.c:69:5:App_Module_Process_USART_CMD	144	static
+../APP/Generic_cmd.c:83:5:App_Module_Uart_Send	16	static
+../APP/Generic_cmd.c:143:6:port_tx_msg	0	static
+../APP/Generic_cmd.c:166:5:App_Module_format_conver_uint8	28	static
+../APP/Generic_cmd.c:245:6:HAL_UART_RxCpltCallback	272	static
+../APP/Generic_cmd.c:278:6:HAL_UART_ErrorCallback	0	static
+../APP/Generic_cmd.c:285:6:HAL_DMA_XferCpltCallback	0	static

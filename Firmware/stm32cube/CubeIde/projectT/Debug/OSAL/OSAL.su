@@ -1,0 +1,10 @@
+../OSAL/OSAL.c:17:6:osal_CreateQueue	0	static
+../OSAL/OSAL.c:36:6:osal_TraverseQueue	32	static
+../OSAL/OSAL.c:62:6:osal_FullQueue	0	static
+../OSAL/OSAL.c:70:6:osal_EmptyQueue	0	static
+../OSAL/OSAL.c:78:6:osal_Enqueue	8	static
+../OSAL/OSAL.c:95:6:osal_Dequeue	16	static
+../OSAL/OSAL.c:116:6:osal_itoa	48	static
+../OSAL/OSAL.c:138:6:osal_Str2Byte	12	static
+../OSAL/OSAL.c:163:6:osal_Hex2Str	32	static
+../OSAL/OSAL.c:175:16:osal_Transfer_Byte	0	static

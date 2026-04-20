@@ -1,0 +1,3 @@
+../HAL/hal_led.c:39:6:HalLedInit	48	static
+../HAL/hal_led.c:62:6:HalLedSet	0	static
+../HAL/hal_led.c:108:5:HalLed_Mode_Set	0	static

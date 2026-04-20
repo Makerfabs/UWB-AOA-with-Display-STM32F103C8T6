@@ -1,0 +1,16 @@
+../DW/PDoA/uwb.c:18:9:GPIO_ReadInputDataBit	1
+../DW/PDoA/uwb.c:38:15:portGetTickCnt	1
+../DW/PDoA/uwb.c:46:15:portGetTickCount	1
+../DW/PDoA/uwb.c:53:6:sleep_ms	2
+../DW/PDoA/uwb.c:67:6:Sleep	2
+../DW/PDoA/uwb.c:72:6:deca_usleep	3
+../DW/PDoA/uwb.c:91:6:reset_DWIC	2
+../DW/PDoA/uwb.c:120:6:SPI_ConfigFastRate	2
+../DW/PDoA/uwb.c:151:6:port_set_dw_ic_spi_slowrate	2
+../DW/PDoA/uwb.c:159:6:port_set_dw_ic_spi_fastrate	2
+../DW/PDoA/uwb.c:167:6:wakeup_device_with_io	3
+../DW/PDoA/uwb.c:181:6:deca_sleep	2
+../DW/PDoA/uwb.c:186:5:readfromspi_serial	3
+../DW/PDoA/uwb.c:222:5:writetospi_serial	3
+../DW/PDoA/uwb.c:254:10:EXTI_GetITEnStatus	1
+../DW/PDoA/uwb.c:276:6:process_deca_irq	2

@@ -1,0 +1,4 @@
+../DW/Examples/ds_twr_sts_sdc_initiator.c:133:6:display_to_lcd_twr	136	static
+../DW/Examples/ds_twr_sts_sdc_initiator.c:152:6:discovery_process	24	static
+../DW/Examples/ds_twr_sts_sdc_initiator.c:215:6:ranging_process	40	static
+../DW/Examples/ds_twr_sts_sdc_initiator.c:331:5:ds_twr_sts_sdc_initiator	16	static

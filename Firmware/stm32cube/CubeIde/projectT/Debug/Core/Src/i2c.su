@@ -1,0 +1,5 @@
+../Core/Src/i2c.c:30:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:60:6:HAL_I2C_MspInit	40	static
+../Core/Src/i2c.c:88:6:HAL_I2C_MspDeInit	8	static
+../Core/Src/i2c.c:115:5:Hal_I2C_LCD_Init	8	static
+../Core/Src/i2c.c:127:6:HalI2cInit	8	static
