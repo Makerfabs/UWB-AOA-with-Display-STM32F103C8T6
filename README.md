@@ -102,6 +102,10 @@ UWB AOA with Display STM32F103C8T6
 [AOA KIT](https://www.makerfabs.com/mauwb-stm32-aoa-development-kit.html) 
 
 
-**NOTE:One AOA device only supports one anchor point paired with one tag to work simultaneously. Excess tags will cause the data not to be displayed. Please unbind the phantom false tags in the interface, and the kit can be used normally.**
+# FAQ
 
+You can list your question here or contact techsupport@makerfabs.com for technology support. Detailed descriptions of your question will be helped to solve your question.
+
+• Q:The AOA kit has multiple label bindings, resulting in the inability to obtain distance and angle information.
+  A:One AOA device only supports one anchor point paired with one tag to work simultaneously. Excess tags will cause the data not to be displayed. Please unbind the phantom false tags in the interface, and the kit can be used normally.
 
