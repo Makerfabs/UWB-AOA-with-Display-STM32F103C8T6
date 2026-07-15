@@ -102,6 +102,6 @@ UWB AOA with Display STM32F103C8T6
 [AOA KIT](https://www.makerfabs.com/mauwb-stm32-aoa-development-kit.html) 
 
 
-
+**NOTE:One AOA device only supports one anchor point paired with one tag to work simultaneously. Excess tags will cause the data not to be displayed. Please unbind the phantom false tags in the interface, and the kit can be used normally.**
 
 
